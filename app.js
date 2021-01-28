@@ -29,6 +29,7 @@ else if (practice ==='cardio'){yourSport='<img src="images/cardio.jpg" width="50
 
 for(var i = 1 ; i<= imageNum ;i++){
     document.write (yourSport)
-
 }
+
+
 
